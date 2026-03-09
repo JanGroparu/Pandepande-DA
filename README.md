@@ -1,3 +1,6 @@
+# INSTALLATION
+Just download the source code and run the shortcut launcher. Alternatively, if you want a shortcut on the desktop, just right click on the shortcut in the source code and select `send to` -> `Desktop`
+
 # DATA STRUCTURE
 When entering a new run into the data set, you must add the new line: `0 100 N/A`
 
